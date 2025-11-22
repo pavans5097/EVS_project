@@ -1,0 +1,7 @@
+{
+  "name": "AgriSmart AI",
+  "description": "Intelligent farming assistant for crop management, weather monitoring, and AI-driven fertilizer recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
